@@ -8,7 +8,8 @@ pip install ram
 ✔️・**Latest open source project [discord-fake-stream](https://github.com/DXVVAY/discord-fake-twitch-streamer)**
 
 📩・**Want to reach? Add DEXV#6969 on [discord](https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett)**
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
+
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DXVVAY&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="DEXV" /> </p>
 
 
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img src="https://media.discordapp.net/attachments/690273779347226625/1005187109495259187/dexv_banner.png"/></a>
