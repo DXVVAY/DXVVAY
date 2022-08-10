@@ -6,7 +6,7 @@ pip install ram
 ```
 
 
-✔️・**Latest open source project [discord-fake-stream](https://github.com/DXVVAY/discord-fake-twitch-streamer)**
+✔️・**Latest open source project [Dexv-Raider](https://github.com/DXVVAY/dexv-raider)**
 
 📩・**Want to reach? Add DEXV#6969 on [discord](https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett)**
 
