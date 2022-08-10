@@ -5,6 +5,7 @@
 pip install ram
 ```
 
+im dexv i make shit that can make you kinda rich 
 
 ✔️・**Latest open source project [Dexv-Raider](https://github.com/DXVVAY/dexv-raider)**
 
