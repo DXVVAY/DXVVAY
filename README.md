@@ -7,12 +7,13 @@ pip install ram
 
 im dexv i make shit that can make you kinda rich 
 
-✔️・**Latest open source project [Dexv-Raider](https://github.com/DXVVAY/dexv-tokener/tree/main)**
+✔️・**Latest open source project [Dexv-tokener](https://github.com/DXVVAY/dexv-tokener/tree/main)**
 
 📩・**Want to reach? Add DEXV#6969 on [discord](https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett)**
 
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DXVVAY&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="DEXV" /> </p>
-
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DXVVAY&count_private=true&hide=procfile,css&theme=dark"/> </p>
 
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img src="https://media.discordapp.net/attachments/690273779347226625/1005187109495259187/dexv_banner.png"/></a>
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+
