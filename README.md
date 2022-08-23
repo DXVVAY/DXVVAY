@@ -14,6 +14,6 @@ im dexv i make shit that can make you kinda rich
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DXVVAY&count_private=true&hide=procfile,css&theme=dark"/> </p>
 
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img src="https://media.discordapp.net/attachments/690273779347226625/1005187109495259187/dexv_banner.png"/></a>
-<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 
