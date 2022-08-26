@@ -2,7 +2,7 @@
 
 
 ```sh-session
-pip install ram
+pip install bitches
 ```
 
 im dexv i make shit that can make you kinda rich 
