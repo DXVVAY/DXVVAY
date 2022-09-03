@@ -7,7 +7,7 @@ pip install bitches
 
 im dexv i make shit that can make you kinda rich 
 
-✔️・**Latest open source project [Dexv-tokener](https://github.com/DXVVAY/dexv-tokener/tree/main)**
+✔️・**Latest open source project [Dexv-Nuker-V2](https://github.com/DXVVAY/Dexv-nukerV2-)**
 
 📩・**Want to reach? Add DEXV#6969 on [discord](https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett)**
 
