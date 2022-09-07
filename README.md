@@ -4,10 +4,10 @@
 ```sh-session
 pip install bitches
 ```
-```
+```python
 print(f'Follow {DXVVAY} on Github')
 ```
-```
+```python
 DEXV NUKER.V2 IS OUT GET IT NOW
 ```
 im dexv i make shit that can make you kinda rich 
