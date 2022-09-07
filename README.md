@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img src="https://i.pinimg.com/originals/2e/d2/03/2ed2035c5dee36030df9c86d7d611c24.jpg" alt="Dexv's Github"/></a>
+<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img src="https://api.creavite.co/out/-UM1KexP6iUJrhtyoa_standard.webm" alt="Dexv's Github"/></a>
 
 
 ```sh-session
