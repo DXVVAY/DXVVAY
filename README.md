@@ -5,7 +5,7 @@
 pip install bitches
 ```
 ```
-print(f'Follow {DXVAY} on Github')
+print(f'Follow {DXVVAY} on Github')
 ```
 im dexv i make shit that can make you kinda rich 
 
