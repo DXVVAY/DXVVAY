@@ -10,6 +10,9 @@ print(f'Follow {DXVVAY} on Github')
 ```python
 DEXV NUKER.V2 IS OUT GET IT NOW
 ```
+```python
+working on a new raspberry pi pico project less goo 8====D
+```
 im dexv i make shit that can make you kinda rich 
 
 📂・**Latest soon coming project [Dexv-Selfbot-for-discord](https://www.youtube.com/watch?v=O91DT1pR1ew)**
