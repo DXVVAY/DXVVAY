@@ -8,10 +8,7 @@ pip install bitches
 print(f'Follow {DXVVAY} on Github')
 ```
 ```python
-DEXV NUKER.V2 IS OUT GET IT NOW
-```
-```python
-working on a new raspberry pi pico project less goo 8====D
+working on a flipper fw
 ```
 im dexv i make shit that can make you kinda rich 
 
