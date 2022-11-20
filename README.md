@@ -14,7 +14,7 @@ im dexv i make shit that can make you kinda rich
 
 📂・**Latest soon coming project [Dexv-Selfbot-for-discord](https://www.youtube.com/watch?v=O91DT1pR1ew)**
 
-✔️・**Latest open source project [Dexv-Nuker-V2](https://github.com/DXVVAY/Dexv-nukerV2-)**
+✔️・**Latest open source project [Dexv-Zero-flipper-fw](https://github.com/DXVVAY/flipperzero-firmware)**
 
 📩・**Want to reach? Add DEXV#6969 on [discord](https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett)**
 
