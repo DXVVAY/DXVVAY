@@ -10,7 +10,7 @@ print(f'Follow {DXVVAY} on Github')
 ```python
 working on a flipper fw
 ```
-im Dexv you can call me Dex 
+Call me Dex 
 
 📂・**Latest soon coming project [Flipper-rolling-code-bypasser](https://www.youtube.com/watch?v=O91DT1pR1ew)**
 
