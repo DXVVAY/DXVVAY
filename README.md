@@ -26,8 +26,11 @@ Call me Dex
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img align="center">
 ![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
 
+<h3 align="center">
+🔴 My GitHub Stats
+</h3>
 
-### 🔴 My GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DXVVAY&show_icons=true&line_height=27&count_private=true&&theme=dark" alt="Crackz' GitHub Stats" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DXVVAY&show_icons=true&line_height=27&count_private=true&&theme=dark" alt="Crackz' GitHub Stats" />
+</p>
 
