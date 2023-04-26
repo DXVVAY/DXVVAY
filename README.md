@@ -1,3 +1,7 @@
+![GitHub](https://komarev.com/ghpvc/?username=DXVVAY&style=flat)
+[![Discord](https://dcbadge.vercel.app/api/shield/640909569983250433?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/640909569983250433)
+<br>
+
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="https://i.pinimg.com/originals/4b/dc/f4/4bdcf4287dafcf99a2bfd849d869567b.jpg" alt="Dexv's Github"/></a>
 
 
@@ -19,8 +23,11 @@ Call me Dex
 📩・**Want to reach? Add DEXV#6969 on [discord](https://discord.gg/dexvirus)**
 
 
-<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img align="center"  src="https://media.discordapp.net/attachments/690273779347226625/1005187109495259187/dexv_banner.png"/><img align="center">
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img align="center">
 ![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
 
+
+### 🔴 My GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DXVVAY&show_icons=true&line_height=27&count_private=true&&theme=dark" alt="Crackz' GitHub Stats" />
 
