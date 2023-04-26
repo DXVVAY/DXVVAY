@@ -11,13 +11,13 @@ pip install bitches
 print(f'Follow {DXVVAY} on Github')
 ```
 ```python
-working on a flipper fw
+currently learning C!
 ```
 Call me Dex 
 
 📂・**Latest soon coming project [Flipper-rolling-code-bypasser](https://www.youtube.com/watch?v=O91DT1pR1ew)**
 
-✔️・**Latest open source project [Dexv-Zero-flipper-fw](https://github.com/DXVVAY/Dexv0) And [Dexvmaster-Zero-flipper-fw](https://github.com/DXVVAY/Dexvmaster0)**
+✔️・**Latest open source project [Xvirus-Tools](https://github.com/Xvirus0/Xvirus-Tools) And [Dexvmaster-Zero-flipper-fw](https://github.com/DXVVAY/Dexvmaster0)**
 
 📩・**Want to reach? Add DEXV#6969 on [discord](https://discord.gg/dexvirus)**
 
