@@ -8,6 +8,7 @@
 pip install bitches
 ```
 ```python
+DXVVAY = DEXV
 print(f'Follow {DXVVAY} on Github')
 ```
 ```python
