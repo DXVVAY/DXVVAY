@@ -33,6 +33,7 @@ Call me Dex
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DXVVAY&show_icons=true&line_height=27&count_private=true&&theme=dark" alt="DXVVAY' GitHub Stats" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DXVVAY&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DXVVAY&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
