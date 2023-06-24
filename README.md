@@ -20,9 +20,9 @@ Call me Dex
 
 ✔️・**Latest open source project [Xvirus-Tools](https://github.com/Xvirus0/Xvirus-Tools) And [Dexvmaster-Zero-flipper-fw](https://github.com/DXVVAY/Dexvmaster0)**
 
- 🌐・**Check Out My Website [Xvirus](https://xvirus.xyz)**
+🌐・**Check Out My Website [Xvirus](https://xvirus.xyz)**
 
-📩・**Want to reach? Add DEXV#6969 on [discord](https://discord.gg/dexvirus)**
+📩・**Want to reach? Add @dexv on [discord](https://discord.gg/FyJzTUWu)**
 
 
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img align="center">
