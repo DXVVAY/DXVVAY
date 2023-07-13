@@ -24,15 +24,12 @@ Call me Dex
 
 📩・**Want to reach? Add @dexv on [discord](https://discord.gg/FyJzTUWu)**
 
+<div align="center">
+  <h2 align="center">🔴 Statistics</h2>
+  <img src="https://raw.githubusercontent.com/DXVVAY/DXVVAY/stats/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/DXVVAY/DXVVAY/stats/generated/languages.svg#gh-dark-mode-only">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=DXVVAY&theme=tokyonight_duo&hide_border=true&mode=weekly">
+</div>
 
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img align="center">
 ![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
-
-<h3 align="center">
-🔴 My GitHub Stats
-</h3>
-
-<p align="center">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DXVVAY&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</p>
-
