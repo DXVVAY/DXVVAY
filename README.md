@@ -12,7 +12,7 @@ DXVVAY = DEXV
 print(f'Follow {DXVVAY} on Github')
 ```
 ```python
-currently learning C!
+currently working on a discord API tool!
 ```
 Call me Dex 
 
