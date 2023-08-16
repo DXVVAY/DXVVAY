@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="https://i.pinimg.com/originals/4b/dc/f4/4bdcf4287dafcf99a2bfd849d869567b.jpg" alt="Dexv's Github"/></a>
 
 ![GitHub](https://komarev.com/ghpvc/?username=DXVVAY&style=flat)
-[![Discord](https://dcbadge.vercel.app/api/shield/640909569983250433?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/640909569983250433)
+[![Discord](https://dcbadge.vercel.app/api/shield/1137825575944335460?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1137825575944335460)
 <br>
 
 ```sh-session
@@ -22,7 +22,7 @@ Call me Dex
 
 🌐・**Check Out My Website [Xvirus](https://xvirus.xyz)**
 
-📩・**Want to reach? Add @dexv on [discord](https://discord.gg/FyJzTUWu)**
+📩・**Want to reach? Add @dexv on [discord](https://discord.gg/xvirus)**
 
 <div align="center">
   <h2 align="center">🔴 Statistics</h2>
