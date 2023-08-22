@@ -22,7 +22,7 @@ Call me Dex
 
 🌐・**Check Out My Website [Xvirus](https://xvirus.xyz)**
 
-📩・**Want to reach? Add @dexv on [discord](https://discord.gg/xvirus)**
+📩・**Want to reach? Add @dexvmaster on [discord](https://discord.gg/xvirus)**
 
 <div align="center">
   <h2 align="center">🔴 Statistics</h2>
