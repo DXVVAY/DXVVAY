@@ -4,14 +4,14 @@
 [![Discord](https://dcbadge.vercel.app/api/shield/1137825575944335460?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1137825575944335460)
 <br>
 
-```sh-session
+```python
 pip install bitches
 ```
 ```python
 DXVVAY = 'DEXV'
 print(f'Follow {DXVVAY} on Github')
 ```
-```python
+```sh-session
 currently working on a discord API tool!
 ```
 Call me Dex 
@@ -22,7 +22,7 @@ Call me Dex
 
 🌐・**Check Out My Website [Xvirus](https://xvirus.xyz)**
 
-📩・**Want to reach? Add @dexvmaster on [discord](https://discord.gg/xvirus)**
+📩・**Want to reach? Add @dexv on [discord](https://discord.gg/xvirustool)**
 
 <div align="center">
   <h2 align="center">🔴 Statistics</h2>
