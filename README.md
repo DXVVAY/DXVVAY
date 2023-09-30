@@ -20,9 +20,9 @@ Call me Dex
 
 ✔️・**Latest open source project [Xvirus-Tools](https://github.com/Xvirus0/Xvirus-Tools)**
 
-🌐・**Check Out My Website [Xvirus](https://xvirus.xyz)**
+🌐・**Check Out My Website [Xvirus.lol](https://xvirus.lol), [Dexv.lol](https://dexv.lol)**
 
-📩・**Want to reach? Add @dexv on [discord](https://discord.gg/xvirustool)**
+📩・**Want to reach? Add @dexvmaster on [discord](https://discord.gg/xvirustool) and or email me dexv@dexv.lol**
 
 <div align="center">
   <h2 align="center">🔴 Statistics</h2>
