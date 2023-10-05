@@ -30,6 +30,3 @@ Call me Dex
   <img src="https://raw.githubusercontent.com/DXVVAY/DXVVAY/stats/generated/languages.svg#gh-dark-mode-only">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=DXVVAY&theme=tokyonight_duo&hide_border=true&mode=weekly">
 </div>
-
-<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"><img align="center">
-![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
