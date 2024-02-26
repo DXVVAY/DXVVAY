@@ -25,8 +25,11 @@ Call me Dex
 📩・**Want to reach? Add @dexv on [discord](https://discord.gg/xvirustool) and or email me dexv@dexv.lol**
 
 <div align="center">
-  <h2 align="center">🔴 Statistics</h2>
-  <img src="https://raw.githubusercontent.com/DXVVAY/DXVVAY/stats/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/DXVVAY/DXVVAY/stats/generated/languages.svg#gh-dark-mode-only">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=DXVVAY&theme=tokyonight_duo&hide_border=true&mode=weekly">
+    <h2 align="center">🔴 Statistics</h2>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=DXVVAY&show_icons=true&bg_color=00000000">
+    </div>
+    <div>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=DXVVAY&theme=tokyonight_duo&hide_border=true&mode=weekly">
+    </div>
 </div>
