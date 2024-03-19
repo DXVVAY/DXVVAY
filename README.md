@@ -12,7 +12,7 @@ DXVVAY = 'DEXV'
 print(f'Follow {DXVVAY} on Github')
 ```
 ```sh-session
-currently working on a discord API tool!
+currently working on a AI based hCaptcha solver!
 ```
 Call me Dex 
 
