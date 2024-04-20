@@ -18,7 +18,7 @@ Call me Dex
 
 📂・**Latest soon coming project [Flipper-rolling-code-bypasser](https://www.youtube.com/watch?v=O91DT1pR1ew)**
 
-✔️・**Latest open source project [Xvirus-Tools](https://github.com/Xvirus0/Xvirus-Tools)**
+✔️・**Latest open source project [fCaptcha](https://github.com/DXVVAY/hCaptcha-Text-Solver)**
 
 🌐・**Check Out My Website [Xvirus.lol](https://xvirus.lol), [Dexv.lol](https://dexv.lol)**
 
