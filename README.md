@@ -20,7 +20,7 @@ Call me Dex
 
 ✔️・**Latest open source project [fCaptcha](https://github.com/DXVVAY/hCaptcha-Text-Solver)**
 
-🌐・**Check Out My Website [Xvirus.lol](https://xvirus.lol), [Dexv.lol](https://dexv.lol)**
+🌐・**Check Out My Website [Dexv.lol](https://dexv.lol)**
 
 📩・**Want to reach? Add @dexv on [discord](https://discord.com/users/1222475156388053012) and or email me dexv@dexv.lol**
 
