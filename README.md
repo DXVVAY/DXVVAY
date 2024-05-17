@@ -5,7 +5,7 @@
 <br>
 
 ```python
-pip install bitches
+pip install fcaptcha
 ```
 ```python
 DXVVAY = 'DEXV'
