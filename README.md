@@ -18,7 +18,7 @@ Call me Dex
 
 📂・**Latest soon coming project [Flipper-rolling-code-bypasser](https://www.youtube.com/watch?v=O91DT1pR1ew)**
 
-✔️・**Latest open source project [fCaptcha](https://github.com/DXVVAY/hCaptcha-Text-Solver)**
+✔️・**Latest open source project [hCaptcha-reverse](https://github.com/DXVVAY/hcaptcha-reverse)**
 
 🌐・**Check Out My Website [Dexv.lol](https://dexv.lol)**
 
