@@ -22,7 +22,7 @@ Call me Dex
 
 🌐・**Check Out My Website [Dexv.lol](https://dexv.lol)**
 
-📩・**Want to reach? Add @dexv.hcap on [discord](https://discord.com/users/1312891370331177084) and or email me dexv@dexv.lol**
+📩・**Want to reach? Add @dexv.hcap on [discord](https://discord.com/users/1312891370331177084) and or @dexv0 on [Telegram](https://t.me/dexv0)**
 
 <div align="center">
     <h2 align="center">🔴 Statistics</h2>
