@@ -22,7 +22,7 @@ Call me Dex
 
 🌐・**Check Out My Website [Dexv.lol](https://dexv.lol)**
 
-📩・**Want to reach? Add @dexv.sigma on [discord](https://discord.com/users/1314631609273810994) and or @dexv0 on [Telegram](https://t.me/dexv0)**
+📩・**Want to reach? Add @dexv0 on [Telegram](https://t.me/dexv0)**
 
 <div align="center">
     <h2 align="center">🔴 Statistics</h2>
