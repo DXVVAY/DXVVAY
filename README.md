@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="https://github.com/DXVVAY/DXVVAY/assets/89728480/cca39ba5-8b4b-44ac-bab9-687ca62fa3fa" alt="Dexv's Github"/></a>
 
 ![GitHub](https://komarev.com/ghpvc/?username=DXVVAY&style=flat)
-[![Discord](https://dcbadge.vercel.app/api/shield/1222475156388053012?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1222475156388053012)
+[![Discord](https://dcbadge.vercel.app/api/shield/1312891370331177084?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1312891370331177084)
 <br>
 
 ```python
