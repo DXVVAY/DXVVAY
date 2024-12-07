@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="https://github.com/DXVVAY/DXVVAY/assets/89728480/cca39ba5-8b4b-44ac-bab9-687ca62fa3fa" alt="Dexv's Github"/></a>
 
 ![GitHub](https://komarev.com/ghpvc/?username=DXVVAY&style=flat)
-[![Discord](https://dcbadge.vercel.app/api/shield/1312891370331177084?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1312891370331177084)
+[![Discord](https://dcbadge.vercel.app/api/shield/1314631609273810994?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1314631609273810994)
 <br>
 
 ```python
@@ -22,7 +22,7 @@ Call me Dex
 
 🌐・**Check Out My Website [Dexv.lol](https://dexv.lol)**
 
-📩・**Want to reach? Add @dexv.hcap on [discord](https://discord.com/users/1312891370331177084) and or @dexv0 on [Telegram](https://t.me/dexv0)**
+📩・**Want to reach? Add @dexv.sigma on [discord](https://discord.com/users/1314631609273810994) and or @dexv0 on [Telegram](https://t.me/dexv0)**
 
 <div align="center">
     <h2 align="center">🔴 Statistics</h2>
